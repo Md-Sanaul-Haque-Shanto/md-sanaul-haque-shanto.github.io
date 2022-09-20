@@ -1,0 +1,72 @@
+### your site title here
+title: Md. Sanaul Haque Shanto
+description: Researcher | Competitive Programmer | Philantropist
+
+baseurl: "" #name of GitHub repository
+url: "" #custom url to be used instead of GitHub repository
+email: mdsanaulhaqueshanto@gmail.com
+
+highlighter: rouge
+markdown: kramdown
+
+# Pagination
+# paginate: 4
+# permalink: /blog/:year/:title/
+# paginate_path: /blog/page:num/
+
+# Social media links in footer
+
+
+google_analytics: "#"
+scopus: "#"
+linkedin: "md-sanaul-haque-shanto"
+stackoverflow: "6539441/md-sanaul-haque-shanto"
+github: "md-sanaul-haque-shanto"
+google_scholar: "qieW9nwAAAAJ"
+deepai: "#"
+#researchgate: "#"
+orcid: "0000-0001-7392-3250"
+quora: "Md-Sanaul-Haque-Shanto"
+instagram: "mdshs.shanto"
+facebook: "10e18"
+codeforces: "#"
+toph: "#"
+projecteular: "#"
+rosalind: "#"
+
+# highlighter: rouge
+# markdown: kramdown
+
+# Tracker
+analytics:
+
+#optimization -> compress.html
+compress_html:
+  clippings: [html,div, p, ul, td, h1, h2, h3, h4,link, meta, footer, nav, img, header, hr, br, head, style, li, ul, ol, time, main, script, title]
+  comments: ["<!-- ", " -->"]
+  endings: [all]
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: false
+  startings: []
+
+#collection
+# collections:
+#   projects:
+#     output: true
+#     permalink: :path/projects/
+
+sass:
+  sass_dir: /assets/css/_sass
+  style: compressed
+
+include:
+  - _pages
+  - _bibliography
+  
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-email-protect
+  - jekyll-target-blank
