@@ -11,7 +11,7 @@ The following is a not exhaustive list of projects where I have been involved. I
 #### TigerShell[2022]
 <img src="https://img.shields.io/badge/project-software-green">
 *software-series* <br>
-Platfrom: <a href="https://tigershell.art/">TigerShell</a>,br>
+Platfrom: <a href="https://tigershell.art/">TigerShell</a><br>
 Resources: <a href="https://github.com/md-sanaul-haque-shanto/TigerShell">repository</a>
 
 #### Melanoma Detection App using OpenCV and Tensorflow Lite[2022]
@@ -22,7 +22,7 @@ Resources: <a href="https://github.com/Md-Sanaul-Haque-Shanto/Melanoma-Detection
 #### eptOnline AI[2022]
 <img src="https://img.shields.io/badge/project-software-green">
 *software-series* <br>
-Platfrom: <a href="https://eptonline.org">eptOnline.org</a>,br>
+Platfrom: <a href="https://eptonline.org">eptOnline.org</a><br>
 
 
 #### TheOriginator[2022-present]
@@ -35,6 +35,11 @@ Resources: <a href="https://theoriginator.org">repository</a>
 
 *software-series* <br>
 Resources: <a href="https://partridgelab.github.io">repository</a>
+
+#### Protijog.org[ICT Division of Bangladesh Project 2022]
+<img src="https://img.shields.io/badge/project-software-green">
+*software-series* <br>
+Platfrom: <a href="https://protijog.com">protijog.com</a><br>
 
 #### ArenaBoard Online Judge (Sports Contest Platform)[2018-2020]
 <img src="https://img.shields.io/badge/project-software-green">
