@@ -19,6 +19,12 @@ Resources: <a href="https://github.com/md-sanaul-haque-shanto/TigerShell">reposi
 *Medical-Software-series* <br>
 Resources: <a href="https://github.com/Md-Sanaul-Haque-Shanto/Melanoma-Detection-App">repository</a>
 
+#### eptOnline AI[2022]
+<img src="https://img.shields.io/badge/project-software-green">
+*software-series* <br>
+Platfrom: <a href="https://eptonline.org">eptOnline.org</a>,br>
+
+
 #### TheOriginator[2022-present]
 <img src="https://img.shields.io/badge/project-software-green">
 *Embedded-series* <br>
