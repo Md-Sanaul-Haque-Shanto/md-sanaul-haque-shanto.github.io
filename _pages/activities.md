@@ -24,7 +24,7 @@ published: true
 #### Member and Researcher
 0. [International Neuroethics Society](https://neuroethicssociety.org) - "<i>Member & Researcher</i>", May 2022
 
-0. [The New York Academy Of Science](http://nyas.org) - "<i>The Junior Academy</i>", September 2022
+0. [The New York Academy Of Science](https://joinlaunchpad.com/#/profile/16816) - "<i>The Junior Academy</i>", September 2022
 
 0. [International Youth Neuroscience Association.](https://youthneuro.org) - "<i>President at Bangladesh Chapter</i>", June 2022
 
