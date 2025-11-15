@@ -14,7 +14,7 @@ published: true
 #### Awards
 0. Nominated for "*Tiger Entrepreneur Award 2022" for "*TigerShell" project. September 2022, NJ , United State Of America.
 2. ICT Division of Bangladesh Innovation Awards ($5,000) for "*ArenaBoard Online Judge" project. October 2018, Dhaka , Bangladesh
-3. Best Project Award - Divisional Science Fair 36th Project Runner-Up. "*3D-Hologram for Education at Zero-cost using Renewable Source*". The Rajshahi 36th Science Fair (Project Fair)", April 2016, Rajshahi , Bangladesh
+3. Best Project Award - Divisional Science Fair 36th Project Runner-Up. "*3D-Hologram for Education at Zero-cost using Renewable Source*". The 36th Science Fair (Project Fair)", April 2016 , Bangladesh
 {: reversed="reversed"}
 
 #### Conference and Workshop(s) (Co-)Chair
