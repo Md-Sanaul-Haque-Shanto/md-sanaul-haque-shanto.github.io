@@ -1,10 +1,10 @@
 ### your site title here
-title: Md. Sanaul Haque Shanto
-description: Researcher | Competitive Programmer | Philantropist
+title: Sanaul Haque
+description: Researcher | Competitive Programmer
 
 baseurl: "" #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: mdsanaulhaqueshanto@gmail.com
+email: shanto@eptonline.org
 
 highlighter: rouge
 markdown: kramdown
@@ -27,8 +27,6 @@ deepai: "#"
 #researchgate: "#"
 orcid: "0000-0001-7392-3250"
 quora: "Md-Sanaul-Haque-Shanto"
-instagram: "mdshs.shanto"
-facebook: "10e18"
 codeforces: "#"
 toph: "#"
 projecteular: "#"
@@ -38,7 +36,7 @@ rosalind: "#"
 # markdown: kramdown
 
 # Tracker
-analytics:
+analytics: "G-2C99GJ2997"
 
 #optimization -> compress.html
 compress_html:
