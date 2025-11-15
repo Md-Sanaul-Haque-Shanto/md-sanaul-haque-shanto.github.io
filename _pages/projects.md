@@ -36,10 +36,6 @@ Resources: <a href="https://theoriginator.org">repository</a>
 *software-series* <br>
 Resources: <a href="https://partridgelab.github.io">repository</a>
 
-#### Protijog.org[ICT Division of Bangladesh Project 2022]
-<img src="https://img.shields.io/badge/project-software-green">
-*software-series* <br>
-Platfrom: <a href="https://protijog.com">protijog.com</a><br>
 
 #### ArenaBoard Online Judge (Sports Contest Platform)[2018-2020]
 <img src="https://img.shields.io/badge/project-software-green">
@@ -50,7 +46,7 @@ Resources: <a href="https://github.com/md-sanaul-haque-shanto">repository</a>
 <img src="https://img.shields.io/badge/project-software-green">
 Resources: <a href="#">repository</a>
 
-#### Rajshahi Govt. Laboratory High School Android Application [2016]
+#### My School Android Application [2016]
 <img src="https://img.shields.io/badge/project-software-green">
 *Android Application-series* <br>
 Resources: <a href="https://github.com/md-sanaul-haque-shanto/RGLHS-APPS">repository</a>
