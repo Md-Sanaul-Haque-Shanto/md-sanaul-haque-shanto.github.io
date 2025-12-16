@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Md Sanaul Haque Shanto – Emergency Contact</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
+    body {
+      background: #f4f6f8;
+      display: flex;
+      justify-content: center;
+      padding: 20px;
+    }
+
+    .vcard {
+      background: #ffffff;
+      max-width: 520px;
+      width: 100%;
+      border-radius: 14px;
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+      overflow: hidden;
+    }
+
+    .header {
+      background: linear-gradient(135deg, #1e3c72, #2a5298);
+      color: #ffffff;
+      padding: 24px 20px;
+      text-align: center;
+    }
+
+    .header h1 {
+      font-size: 24px;
+      margin-bottom: 6px;
+    }
+
+    .header p {
+      font-size: 14px;
+      opacity: 0.95;
+    }
+
+    .section {
+      padding: 18px 20px;
+      border-bottom: 1px solid #e6e6e6;
+    }
+
+    .section:last-child {
+      border-bottom: none;
+    }
+
+    .section h2 {
+      font-size: 16px;
+      margin-bottom: 10px;
+      color: #1e3c72;
+    }
+
+    .info {
+      font-size: 14px;
+      color: #333333;
+      line-height: 1.6;
+    }
+
+    .contact {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .contact-card {
+      background: #f9fafb;
+      border-radius: 10px;
+      padding: 12px 14px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .contact-details {
+      font-size: 14px;
+    }
+
+    .contact-details strong {
+      display: block;
+      font-size: 14px;
+      color: #111111;
+    }
+
+    .contact-details span {
+      font-size: 13px;
+      color: #555555;
+    }
+
+    .actions {
+      display: flex;
+      gap: 8px;
+    }
+
+    .actions button,
+    .actions a {
+      border: none;
+      padding: 8px 10px;
+      font-size: 12px;
+      border-radius: 6px;
+      cursor: pointer;
+      text-decoration: none;
+      color: #ffffff;
+      background: #2a5298;
+      transition: background 0.2s ease;
+    }
+
+    .actions button:hover,
+    .actions a:hover {
+      background: #1e3c72;
+    }
+
+    @media (max-width: 480px) {
+      .header h1 {
+        font-size: 20px;
+      }
+
+      .section h2 {
+        font-size: 15px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="vcard">
+    <div class="header">
+      <h1>Md Sanaul Haque Shanto</h1>
+      <p>Emergency Contact </p>
+    </div>
+
+    <div class="section">
+      <h2>Personal Information</h2>
+      <div class="info">
+        <strong>Permanent Address:</strong> House 201, Road 15, Ward 03, Amir Hamza Link, Dingadoba Bank Colony, Rajshahi City Corporation, GPA 6201, Bangladesh<br />
+        <strong>Blood Group:</strong> O Negative (O-)<br />
+         <strong>DOB:</strong> April 09, 2002
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>Most Emergency Number (Rajshahi Home)</h2>
+      <div class="contact">
+        <div class="contact-card">
+          <div class="contact-details">
+            <strong>Mahabub Kamal Atom</strong>
+            <span>Sister's Father in Law, Legal Guardian (Rajshahi)</span><br />
+            <span>+8801762953671</span>
+          </div>
+          <div class="actions">
+            <a href="tel:+8801762953671">Call</a>
+            <button onclick="copyNumber('+8801762953671')">Copy</button>
+          </div>
+        </div>
+
+        <div class="contact-card">
+          <div class="contact-details">
+            <strong>Sumona Haque</strong>
+            <span>Sister (Rajshahi)</span><br />
+            <span>01774863451</span>
+          </div>
+          <div class="actions">
+            <a href="tel:01774863451">Call</a>
+            <button onclick="copyNumber('01774863451')">Copy</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>Location Based Emergency (Dhaka)</h2>
+      <div class="contact">
+        <div class="contact-card">
+          <div class="contact-details">
+            <strong>Kamal Uncle</strong>
+            <span>01731678370</span>
+          </div>
+          <div class="actions">
+            <a href="tel:01731678370">Call</a>
+            <button onclick="copyNumber('01731678370')">Copy</button>
+          </div>
+        </div>
+
+        <div class="contact-card">
+          <div class="contact-details">
+            <strong>Anowar Mama</strong>
+            <span>+8801875191662</span>
+          </div>
+          <div class="actions">
+            <a href="tel:+8801875191662">Call</a>
+            <button onclick="copyNumber('+8801875191662')">Copy</button>
+          </div>
+        </div>
+
+        <div class="contact-card">
+          <div class="contact-details">
+            <strong>Anower @ Mama</strong>
+            <span>+8801643600141</span>
+          </div>
+          <div class="actions">
+            <a href="tel:+8801643600141">Call</a>
+            <button onclick="copyNumber('+8801643600141')">Copy</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>Location Based Emergency (Rajshahi)</h2>
+      <div class="contact">
+        <div class="contact-card">
+          <div class="contact-details">
+            <strong>Ripon Vaiya (Dulabhai)</strong>
+            <span>+8801521442792</span>
+          </div>
+          <div class="actions">
+            <a href="tel:+8801521442792">Call</a>
+            <button onclick="copyNumber('+8801521442792')">Copy</button>
+          </div>
+        </div>
+
+        <div class="contact-card">
+          <div class="contact-details">
+            <strong>Ammu</strong>
+            <span>+8801774863451</span>
+          </div>
+          <div class="actions">
+            <a href="tel:+8801774863451">Call</a>
+            <button onclick="copyNumber('+8801774863451')">Copy</button>
+          </div>
+        </div>
+
+        <div class="contact-card">
+          <div class="contact-details">
+            <strong>Boro Mama</strong>
+            <span>01734353994</span>
+          </div>
+          <div class="actions">
+            <a href="tel:01734353994">Call</a>
+            <button onclick="copyNumber('01734353994')">Copy</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    function copyNumber(number) {
+      navigator.clipboard.writeText(number).then(function () {
+        alert('Number copied: ' + number);
+      });
+    }
+  </script>
+</body>
+</html>
